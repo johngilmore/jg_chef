@@ -6,4 +6,4 @@
 #
 # All rights reserved - Do Not Redistribute
 
-log "hi Cary!"
+log "john gilmore changed this!"
