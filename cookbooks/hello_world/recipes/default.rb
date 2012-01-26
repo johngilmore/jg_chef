@@ -16,3 +16,10 @@ directory "/tmp/something" do
   action :create
 end
 
+log "hey look here:
+
+directory "/tmp/broken" do
+  action :create
+end
+
+
