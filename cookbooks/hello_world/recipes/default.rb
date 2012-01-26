@@ -7,3 +7,12 @@
 # All rights reserved - Do Not Redistribute
 
 log "john gilmore changed this!"
+
+directory "/tmp/something" do
+  owner "root"
+  group "root"
+  mode  0755
+  path "/tmp/somethingelse"
+  action :create
+end
+
