@@ -9,4 +9,4 @@ depends "rs_utils"
 
 supports "ubuntu"
 
-recipe "johngilmore::setup_johngilmore", ""
+recipe "::jg_chef_johngilmre", ""
