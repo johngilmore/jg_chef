@@ -18,7 +18,7 @@
   "recommendations": {
   },
   "recipes": {
-    "::setup_johngilmre": ""
+    "johngilmore::setup_johngilmore": ""
   },
   "groupings": {
   },
